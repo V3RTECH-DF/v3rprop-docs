@@ -16,6 +16,7 @@ defaults:
 
 # Tema / cor
 color_scheme: v3rprop
+logo: "/assets/logo.svg"
 
 # Busca
 search_enabled: true

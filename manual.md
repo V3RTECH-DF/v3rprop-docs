@@ -83,7 +83,7 @@ Ao criar ou editar uma proposta, você utilizará um editor estruturado por abas
 
 ![Aba Capa & Conteúdo](/screenshots/screen_6_editor_content.png)
 
-### Aba 3: Módulos de Escopo
+### Aba 3: Produtos e Serviços
 * Adicione cartões para detalhar o escopo da solução proposta.
 * Cada card contém: Título, Número do Módulo e uma lista de atividades ou subitens específicos.
 * **Reordenação de Módulos:** Permite alterar a sequência dos módulos facilmente através dos botões de setas (Mover para Cima / Mover para Baixo), sem a necessidade de excluir e recriar os itens.

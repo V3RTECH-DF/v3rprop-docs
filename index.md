@@ -3,10 +3,12 @@ title: Início
 nav_order: 1
 ---
 
-# V3RProp
-{: .fs-9 }
+<img src="/assets/logo.svg" alt="V3RProp — Propostas que fecham negócios" width="420" style="max-width:100%;height:auto;margin:0 0 12px">
 
-**Propostas comerciais de alto impacto visual, direto do seu WordPress.**
+# Documentação do V3RProp
+{: .fs-8 }
+
+**Propostas que fecham negócios — de alto impacto visual, direto do seu WordPress.**
 {: .fs-6 .fw-300 }
 
 O V3RProp é um plugin nativo de WordPress para criar, precificar, versionar e assinar eletronicamente propostas comerciais — substituindo PDFs engessados por páginas standalone rápidas, com aceite eletrônico de validade jurídica e assinatura digital ICP-Brasil.
