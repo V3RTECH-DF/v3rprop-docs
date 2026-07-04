@@ -5,32 +5,44 @@ nav_order: 1
 
 <img src="/assets/logo.svg" alt="V3RProp — Propostas que fecham negócios" width="420" style="max-width:100%;height:auto;margin:0 0 12px">
 
-# Documentação do V3RProp
+# Manual do Usuário do V3RProp
 {: .fs-8 }
 
 **Propostas que fecham negócios — de alto impacto visual, direto do seu WordPress.**
 {: .fs-6 .fw-300 }
 
-O V3RProp é um plugin nativo de WordPress para criar, precificar, versionar e assinar eletronicamente propostas comerciais — substituindo PDFs engessados por páginas standalone rápidas, com aceite eletrônico de validade jurídica e assinatura digital ICP-Brasil.
+O V3RProp é um plugin nativo de WordPress para criar, precificar, versionar e assinar eletronicamente propostas comerciais. No lugar de PDFs engessados, seu cliente recebe um link para uma página elegante, rápida e feita para convencer — com aceite eletrônico de validade jurídica e assinatura digital ICP-Brasil.
 
-[Ler o manual do usuário](/manual/){: .btn .btn-primary .mr-2 }
-[Repositório no GitHub](https://github.com/V3RTECH-DF/v3rprop){: .btn }
+Este manual tem dois objetivos: **ensinar você a usar o plugin** e **ajudar você a montar propostas que fecham negócios**.
+
+[Começar agora](/guia/){: .btn .btn-primary .mr-2 }
+[Propostas que fecham](/vendas/){: .btn }
 
 ---
 
-## O que você encontra aqui
+## Por onde começar
 
-- **[Manual do Usuário](/manual/)** — guia passo a passo de todas as funcionalidades: painel e dashboard, cadastro de clientes, configurações da organização, editor de propostas, visualização pública, versionamento, API REST, automações e assinatura digital.
+<div class="grid" markdown="1">
 
-## Principais recursos
+- **[Guia de Uso](/guia/)** — o caminho do zero ao primeiro fechamento: instalar, configurar, criar, enviar e acompanhar uma proposta.
+- **[Módulos](/modulos/)** — a referência detalhada de cada tela do plugin, com telas e dicas.
+- **[Propostas que Fecham](/vendas/)** — boas práticas de vendas para escrever propostas convincentes e transformar o "não" em aprendizado.
+- **[Novidades](/novidades/)** — o que mudou a cada versão, em linguagem simples.
+- **[Perguntas Frequentes](/faq/)** — respostas rápidas para as dúvidas mais comuns.
 
-- **Construtor visual de propostas** — capa, produtos e serviços, cronograma e precificação, com temas e paletas por proposta.
-- **Propostas standalone** — exibidas ao cliente em URLs únicas, limpas e rápidas, sem cabeçalho/rodapé do blog.
-- **Aceite eletrônico legal** — coleta de IP, timestamp e hash de autenticidade; assinatura digital ICP-Brasil (certificado A1).
-- **Dashboard gerencial** — KPIs de vendas, funil de propostas, taxa de conversão e ranking de fechamentos.
-- **E-mails transacionais dinâmicos** — notificações automáticas e personalizáveis em cada etapa da negociação.
-- **Integração via REST API** — rotas autenticadas para cadastrar clientes e disparar propostas via n8n, Make e afins.
-- **Versionamento de propostas** — clone como rascunho com navegação inteligente entre versões (superseded).
+</div>
+
+---
+
+## O que o V3RProp faz por você
+
+- **Construtor de propostas por blocos** — monte a proposta como quiser: capa, texto, produtos e serviços, cronograma, precificação, razões para a parceria, grids, citações e comparações de investimento. Dois modelos visuais (Clássico e Moderno).
+- **Precificação flexível** — valores pontuais, implantação, serviços recorrentes (mensalidade) e pacotes comparáveis lado a lado, com descontos e políticas comerciais.
+- **Catálogo reutilizável** — cadastre seus produtos e serviços uma vez (inclusive itens "sob consulta") e reaproveite em qualquer proposta.
+- **Página pública standalone** — o cliente abre um link limpo e rápido, sem o cabeçalho do seu blog, otimizado para decisão.
+- **Aceite eletrônico com validade jurídica** — nome, e-mail, CPF/CNPJ, IP, data/hora e hash de autenticidade; PDF assinado e, opcionalmente, assinatura ICP-Brasil.
+- **Negociação e acompanhamento** — comentários na própria proposta, telemetria de visualizações, lembretes automáticos de validade e versionamento inteligente.
+- **Integração e automação** — API REST para conectar a n8n, Make e outras ferramentas.
 
 ---
 

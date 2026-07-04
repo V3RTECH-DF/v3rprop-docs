@@ -56,7 +56,7 @@ aux_links:
 aux_links_new_tab: true
 
 # Rodapé
-footer_content: '© 2026 V3RTECH. Todos os direitos reservados.'
+footer_content: '© 2026 V3RTECH. Todos os direitos reservados. · <a href="/legal/termos/">Termos de Uso</a> · <a href="/legal/privacidade/">Privacidade</a>'
 last_edit_timestamp: false
 back_to_top: true
 back_to_top_text: "Voltar ao topo"
