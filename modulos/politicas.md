@@ -1,7 +1,7 @@
 ---
 title: Políticas Comerciais
 parent: Módulos
-nav_order: 5
+nav_order: 6
 ---
 
 # Políticas Comerciais

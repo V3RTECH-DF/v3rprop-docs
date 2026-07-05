@@ -8,7 +8,7 @@ nav_order: 3
 
 Uma proposta no V3RProp tem duas partes: a **identidade** (para quem é, cores, validade) e o **conteúdo** (os blocos que o cliente lê). Vamos montar as duas.
 
-No Painel de Propostas, clique em **Nova Proposta**.
+Na tela **Propostas** (ou pelo atalho no **Dashboard**), clique em **Nova Proposta**.
 
 ## Passo 1 — Identidade e Layout
 

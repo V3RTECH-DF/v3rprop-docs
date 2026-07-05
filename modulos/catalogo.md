@@ -1,7 +1,7 @@
 ---
 title: Catálogo de Produtos e Serviços
 parent: Módulos
-nav_order: 4
+nav_order: 5
 ---
 
 # Catálogo de Produtos e Serviços

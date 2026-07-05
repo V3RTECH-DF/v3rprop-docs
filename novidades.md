@@ -7,6 +7,18 @@ nav_order: 5
 
 O que mudou no V3RProp, em linguagem simples. Para o histórico técnico completo, consulte o changelog no repositório do projeto.
 
+## Dashboard e Propostas agora são telas separadas
+
+O antigo painel único virou **dois itens de menu**: o **Dashboard**, só com os indicadores de vendas (e atalhos rápidos), e **Propostas**, com a lista completa para você buscar, filtrar e agir. Menos rolagem, cada coisa no seu lugar. Veja **[Dashboard](/modulos/dashboard/)** e **[Propostas](/modulos/propostas/)**.
+
+## Configurações organizadas em abas
+
+A tela de Configurações, que era longa, passou a ter **abas** — Organização, Parâmetros Comerciais, Layout Global, E-mails, Configurações Técnicas e Importação/Exportação — com um botão **Salvar** que grava tudo de uma vez. O backup/migração de dados agora fica na aba **Importação/Exportação**.
+
+## Enviar feedback direto do painel
+
+No cabeçalho de qualquer tela há agora dois botões: **Manual do Usuário** (abre este manual) e **Enviar Feedback**, para mandar sugestões, dúvidas ou relatos de bug à equipe V3RTECH sem sair do plugin — com um diagnóstico técnico automático que acelera o suporte, e sem expor seus dados sensíveis. Veja **[Ajuda e Feedback](/guia/ajuda-e-feedback/)**.
+
 ## Editor de propostas por blocos e dois modelos visuais
 
 A maior novidade recente: a proposta deixou de ter seções fixas e passou a ser montada com **blocos livres** que você adiciona, reordena e combina como quiser — capa, texto, produtos e serviços, cronograma, precificação, razões, grids, citações e comparação de investimento.

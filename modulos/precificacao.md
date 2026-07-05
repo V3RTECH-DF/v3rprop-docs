@@ -1,7 +1,7 @@
 ---
 title: Precificação por Blocos
 parent: Módulos
-nav_order: 3
+nav_order: 4
 ---
 
 # Precificação por Blocos

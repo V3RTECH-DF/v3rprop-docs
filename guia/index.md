@@ -13,6 +13,7 @@ Este guia leva você do zero ao primeiro fechamento, na ordem natural do trabalh
 3. **[Criar sua Primeira Proposta](/guia/criar-proposta/)** — do cliente ao conteúdo, bloco a bloco.
 4. **[Enviar a Proposta ao Cliente](/guia/enviar-proposta/)** — publique, compartilhe o link e notifique.
 5. **[Acompanhar, Responder e Fechar](/guia/acompanhar/)** — comentários, aceite, versões e follow-up.
+6. **[Ajuda e Feedback](/guia/ajuda-e-feedback/)** — abra o manual e envie sugestões, dúvidas ou bugs à equipe.
 
 {: .tip }
 > **Primeira vez?**

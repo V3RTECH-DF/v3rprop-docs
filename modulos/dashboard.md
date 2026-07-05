@@ -1,18 +1,25 @@
 ---
-title: Painel de Propostas
+title: Dashboard (Indicadores)
 parent: Módulos
 nav_order: 1
 ---
 
-# Painel de Propostas (Dashboard)
+# Dashboard (Indicadores)
 
-O Painel de Propostas é a tela inicial do V3RProp. Ele reúne, em um só lugar, os **indicadores de vendas** e a **lista de todas as propostas**.
+O **Dashboard** é a tela inicial do V3RProp. Ele reúne os **indicadores de vendas** — a visão estratégica da sua operação. A lista operacional das propostas fica no menu **[Propostas](/modulos/propostas/)**, ao lado.
 
-![Painel de Propostas com os indicadores no topo e a tabela de propostas](/assets/screenshots/dashboard.png)
+![Dashboard do V3RProp com os indicadores de vendas e atalhos no topo](/assets/screenshots/manual-dashboard.png)
+
+## Atalhos rápidos
+
+No topo do Dashboard há dois atalhos:
+
+- **Nova Proposta** — abre direto o editor para criar uma proposta.
+- **Ver todas as propostas** — leva para a tela **Propostas** (a lista completa).
 
 ## Indicadores (KPIs)
 
-No topo, um painel de métricas resume a sua operação comercial no período filtrado:
+O painel de métricas resume a sua operação comercial no período:
 
 ![Indicadores de vendas e gráficos no topo do painel](/assets/screenshots/dashboard-metricas.png)
 
@@ -27,38 +34,7 @@ No topo, um painel de métricas resume a sua operação comercial no período fi
 >
 > O V3RProp mantém separados o **investimento pontual** (à vista/parcelado) e o **recorrente (MRR)**. Assim você enxerga com clareza tanto o caixa imediato quanto a receita previsível.
 
-## Lista de propostas
-
-Abaixo dos indicadores, a tabela lista todas as propostas com:
-
-| Coluna | Conteúdo |
-|---|---|
-| **Cliente** | A empresa destinatária. |
-| **Projeto** | O título da proposta. |
-| **Versão** | v1, v2… conforme as renegociações. |
-| **Valor** | Pontual e, quando houver, o recorrente (`+ R$ X/mês`). Itens sem preço aparecem como "Sob consulta". |
-| **Emissão** | Data de criação. |
-| **Status** | O momento da proposta (veja abaixo). |
-
-### Status possíveis
-
-| Status | Significado |
-|---|---|
-| **Rascunho** | Ainda não publicada; o cliente não consegue abrir. |
-| **Ativa** | Publicada e disponível para o cliente. |
-| **Aceita** | O cliente assinou eletronicamente. |
-| **Recusada** | O cliente declinou (com motivos registrados). |
-| **Expirada** | A validade venceu sem aceite. |
-
-## Filtros e busca
-
-Use o campo de busca (por cliente ou título) e o filtro de status para achar rapidamente uma proposta.
-
-## Ações rápidas
-
-Na linha de cada proposta você encontra: **editar** (lápis), **duplicar**, **copiar link**, **abrir link** e **excluir**. Quando a proposta está aceita, aparece também **baixar PDF assinado**.
-
 {: .tip }
-> **Duplicar economiza tempo**
+> **Dashboard para acompanhar, Propostas para operar**
 >
-> Tem um modelo de proposta que funciona? Duplique-o e ajuste só o cliente e os valores. É a forma mais rápida de padronizar sua qualidade.
+> Use o Dashboard para uma leitura rápida do desempenho. Para criar, editar, filtrar e agir sobre cada proposta, vá em **[Propostas](/modulos/propostas/)**.

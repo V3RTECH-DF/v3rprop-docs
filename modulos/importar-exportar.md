@@ -1,14 +1,16 @@
 ---
 title: Importar e Exportar Dados
 parent: Módulos
-nav_order: 9
+nav_order: 10
 ---
 
 # Importar e Exportar Dados
 
-Esta tela permite fazer **backup** dos seus dados e **migrar** o V3RProp entre servidores (por exemplo, do ambiente de testes para produção, ou para um novo site).
+Permite fazer **backup** dos seus dados e **migrar** o V3RProp entre servidores (por exemplo, do ambiente de testes para produção, ou para um novo site).
 
-![Tela de importar e exportar dados](/assets/screenshots/importar-exportar.png)
+Fica em **Configurações → aba Importação/Exportação**.
+
+![Aba Importação/Exportação dentro de Configurações](/assets/screenshots/manual-config-importexport.png)
 
 ## Exportar
 

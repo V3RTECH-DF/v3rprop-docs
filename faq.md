@@ -11,8 +11,8 @@ nav_order: 6
 <summary>Onde encontro o V3RProp depois de instalar?</summary>
 
 No menu lateral do painel do WordPress, procure o item **V3RProp** (ícone de gráfico).
-Ele reúne Propostas, Catálogo, Clientes, Configurações, Documentação e
-Importar/Exportar. Veja **[Conhecendo o Painel](/guia/navegacao/)**.
+Ele reúne Dashboard, Propostas, Catálogo, Clientes, Configurações e Documentação
+(o backup/migração fica dentro de Configurações). Veja **[Conhecendo o Painel](/guia/navegacao/)**.
 </details>
 
 <details markdown="1">
@@ -29,6 +29,15 @@ para agilizar. Passo a passo em **[Instalação e Primeiros Passos](/guia/instal
 
 Não. O V3RProp é um plugin que roda no **seu próprio WordPress**. Os dados ficam
 no seu servidor e você trabalha inteiramente dentro do `wp-admin`.
+</details>
+
+<details markdown="1">
+<summary>Como envio uma sugestão ou reporto um problema?</summary>
+
+Use o botão **Enviar Feedback** no canto superior direito de qualquer tela do
+V3RProp. Escolha o tipo (Sugestão, Dúvida ou Bug), escreva sua mensagem e envie —
+um diagnóstico técnico (sem dados pessoais) vai junto para acelerar o suporte, e
+você recebe uma cópia por e-mail. Detalhes em **[Ajuda e Feedback](/guia/ajuda-e-feedback/)**.
 </details>
 
 ## Criando e enviando propostas
@@ -70,7 +79,7 @@ demais itens. Você negocia o valor à parte.
 <details markdown="1">
 <summary>Como reaproveito uma proposta que deu certo?</summary>
 
-No Painel de Propostas, use a ação **Duplicar** na linha da proposta. Ela cria
+Na tela **Propostas**, use a ação **Duplicar** na linha da proposta. Ela cria
 uma cópia que você ajusta para o novo cliente — a forma mais rápida de manter o
 padrão de qualidade.
 </details>

@@ -1,7 +1,7 @@
 ---
 title: Editor de Propostas e Blocos
 parent: Módulos
-nav_order: 2
+nav_order: 3
 ---
 
 # Editor de Propostas e Blocos

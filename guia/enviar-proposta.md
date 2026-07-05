@@ -18,7 +18,7 @@ Para conferir como o cliente verá, clique em **Visualizar Proposta** (abre a p�
 
 ## Compartilhar o link
 
-No Painel de Propostas, na linha da proposta, use:
+Na tela **Propostas**, na linha da proposta, use:
 
 - **Copiar link** — copia a URL pública para a área de transferência. Cole no e-mail, WhatsApp ou onde preferir.
 - **Abrir link** — abre a proposta em uma nova aba.

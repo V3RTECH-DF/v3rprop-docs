@@ -1,16 +1,32 @@
 ---
 title: Configurações da Organização
 parent: Módulos
-nav_order: 7
+nav_order: 8
 ---
 
 # Configurações da Organização
 
 Aqui ficam os dados globais da empresa que **emite** as propostas. Bem preenchidas, as Configurações alimentam toda proposta nova — você configura uma vez e colhe sempre.
 
-![Tela de Configurações da Organização](/assets/screenshots/configuracoes.png)
+A tela é organizada em **abas**, para você achar cada grupo com rapidez:
+
+| Aba | O que contém |
+|---|---|
+| **Organização** | Identificação da empresa (nome, CNPJ, logomarca, e-mail) e a **assinatura digital ICP-Brasil**. |
+| **Parâmetros Comerciais** | A validade padrão das propostas. |
+| **Layout Global** | As cores padrão e o layout de cabeçalho e rodapé. |
+| **E-mails Transacionais** | Os textos dos e-mails automáticos. |
+| **Configurações Técnicas** | O serviço de PDF (Gotenberg) e a integração/API externa. |
+| **Importação/Exportação** | Backup e migração dos dados (ver **[Importar e Exportar Dados](/modulos/importar-exportar/)**). |
+
+![Configurações da Organização, aba Organização, com a barra de abas no topo](/assets/screenshots/manual-config-organizacao.png)
+
+Há um botão **Salvar Configurações** fixo no rodapé que grava tudo de uma vez, esteja você em qualquer aba (a aba Importação/Exportação tem os próprios botões de exportar/importar).
 
 ## Identificação da organização
+{: #aba-organizacao }
+
+*(aba **Organização**)*
 
 - **Nome, slogan e CNPJ** — a identidade da sua empresa.
 - **Representante legal** — nome e CPF, usados nos documentos.
