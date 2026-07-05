@@ -95,7 +95,8 @@ Esta Política pode ser atualizada. A versão vigente estará sempre disponível
 ## Contato
 
 - **DPO da V3RTECH:** [dpo@v3rtech.com.br](mailto:dpo@v3rtech.com.br)
-- **Suporte:** [v3rprop@v3rtech.com.br](mailto:v3rprop@v3rtech.com.br)
+- **Suporte:** [suporte@v3rtech.com.br](mailto:suporte@v3rtech.com.br)
+- **Comercial / Vendas:** [comercial@v3rtech.com.br](mailto:comercial@v3rtech.com.br)
 
 ---
 

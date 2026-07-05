@@ -129,7 +129,8 @@ Estes Termos são regidos pelas leis brasileiras. Eventuais disputas serão reso
 
 ## 13. Do Contato
 
-- **E-mail:** [v3rprop@v3rtech.com.br](mailto:v3rprop@v3rtech.com.br)
+- **Suporte:** [suporte@v3rtech.com.br](mailto:suporte@v3rtech.com.br)
+- **Comercial / Vendas:** [comercial@v3rtech.com.br](mailto:comercial@v3rtech.com.br)
 - **Documentação:** [docs-v3rprop.v3rtech.com.br](https://docs-v3rprop.v3rtech.com.br)
 
 ---
