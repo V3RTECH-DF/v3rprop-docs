@@ -42,7 +42,7 @@ Versão 1.0 — Julho de 2026
 **3.2.** É vedado ao Licenciado:
 
 - Remover ou alterar avisos de direitos autorais, marcas ou identificação de autoria;
-- Redistribuir o plugin como produto próprio ou concorrente;
+- Redistribuir o plugin, ou versões modificadas dele, como produto próprio ou concorrente valendo-se do nome, da identidade visual ou das marcas da V3RTECH;
 - Utilizar o plugin para fins ilícitos ou que violem direitos de terceiros.
 
 ---
