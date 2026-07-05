@@ -8,6 +8,8 @@ nav_order: 5
 
 O catálogo é a sua biblioteca de itens reutilizáveis. Cadastre um produto ou serviço uma vez — com preço, tipo de cobrança e mídia — e reaproveite em qualquer proposta, sem redigitar.
 
+A tela do Catálogo tem três abas: **Produtos & Serviços** (esta página), **Políticas** (ver **[Políticas Comerciais](/modulos/politicas/)**) e **Conteúdos** (ver **[Biblioteca de Conteúdos](/modulos/conteudos/)**).
+
 ![Listagem do catálogo com itens de diferentes tipos de cobrança](/assets/screenshots/catalogo.png)
 
 ## Cadastrar um item
@@ -30,7 +32,7 @@ Clique em **Novo Item** e preencha:
 | **Pontual** | Um valor de mercado único. | `R$ 8.500,00` |
 | **Recorrente** | Valor por ciclo + periodicidade (mensal/trimestral/anual). | `R$ 1.800,00/mês` |
 | **Setup + Recorrente** | Um valor de implantação pontual mais a mensalidade. | `R$ 12.000,00 + R$ 900,00/mês` |
-| **Sob consulta** | Sem preço fechado. Some não entra em nenhuma soma; aparece como "Sob consulta". | `Sob consulta` |
+| **Sob consulta** | Sem preço fechado. Não entra em nenhuma soma; aparece como "Sob consulta". | `Sob consulta` |
 
 {: .tip }
 > **"Sob consulta" com elegância**

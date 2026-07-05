@@ -16,6 +16,7 @@ Referência detalhada de cada área do V3RProp. Use esta seção para consultar 
 | **[Precificação por Blocos](/modulos/precificacao/)** | Define o investimento: pontual, implantação, recorrente e pacotes. |
 | **[Catálogo de Produtos e Serviços](/modulos/catalogo/)** | Cadastra itens reutilizáveis com preço e tipo de cobrança. |
 | **[Políticas Comerciais](/modulos/politicas/)** | Descontos e condições aplicáveis à precificação. |
+| **[Biblioteca de Conteúdos](/modulos/conteudos/)** | Trechos reaproveitáveis (institucional, razões, depoimentos) para inserir nas propostas. |
 | **[Clientes](/modulos/clientes/)** | Cadastra quem recebe as propostas. |
 | **[Configurações da Organização](/modulos/configuracoes/)** | Identidade, cores, e-mails, integrações, assinatura digital e importação/exportação — organizado em abas. |
 | **[A Proposta Pública e o Aceite](/modulos/proposta-publica/)** | A experiência do cliente e o aceite eletrônico. |

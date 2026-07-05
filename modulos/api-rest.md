@@ -1,12 +1,12 @@
 ---
 title: API REST e Automações
 parent: Módulos
-nav_order: 11
+nav_order: 12
 ---
 
 # API REST e Automações
 
-O V3RProp oferece uma API REST para integrar suas propostas a ferramentas de automação como **n8n**, **Make** e **Zapier** — por exemplo, criar uma proposta automaticamente quando um lead avança no seu CRM.
+O V3RProp oferece uma API REST para integrar suas propostas a ferramentas de automação como **n8n**, **Make** e afins — por exemplo, criar uma proposta automaticamente quando um lead avança no seu CRM.
 
 {: .note }
 > **Para quem é esta página**

@@ -1,7 +1,7 @@
 ---
 title: A Proposta Pública e o Aceite
 parent: Módulos
-nav_order: 9
+nav_order: 10
 ---
 
 # A Proposta Pública e o Aceite

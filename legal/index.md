@@ -9,6 +9,7 @@ has_children: true
 Documentos jurídicos do V3RProp:
 
 - **[Termos de Uso](/legal/termos/)** — as condições de licenciamento e uso do plugin.
+- **[Licença de Uso do Software](/legal/licenca/)** — sob qual licença o V3RProp é distribuído (GPLv2, a mesma do WordPress) e o que ela garante a você, explicada de forma simples.
 - **[Política de Privacidade](/legal/privacidade/)** — como o plugin trata dados pessoais e quais são as suas responsabilidades como controlador.
 
 {: .note }

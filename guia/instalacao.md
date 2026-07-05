@@ -19,7 +19,7 @@ Ao ativar, um novo item **V3RProp** aparece no menu lateral do WordPress, com o 
 {: .note }
 > **Requisitos**
 >
-> O V3RProp funciona em qualquer WordPress recente com PHP 7.4 ou superior. Para a geração de PDF de alta fidelidade e a assinatura ICP-Brasil, há configurações opcionais descritas em **[Configurações da Organização](/modulos/configuracoes/)**.
+> O V3RProp funciona em WordPress 5.8 ou superior, com PHP 7.4 ou superior. Para a geração de PDF de alta fidelidade e a assinatura ICP-Brasil, há configurações opcionais descritas em **[Configurações da Organização](/modulos/configuracoes/)**.
 
 ## Configurar a sua organização
 

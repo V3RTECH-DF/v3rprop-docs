@@ -1,7 +1,7 @@
 ---
 title: Configurações da Organização
 parent: Módulos
-nav_order: 8
+nav_order: 9
 ---
 
 # Configurações da Organização

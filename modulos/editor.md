@@ -44,19 +44,23 @@ Aqui você empilha os **blocos** que formam o corpo da proposta. Cada bloco é a
 | Bloco | Para que serve |
 |---|---|
 | **Capa (Hero)** | O primeiro bloco Hero alimenta a capa: chamada (kicker), título forte, subtítulo e imagem de fundo opcional. |
-| **Texto** | Parágrafos livres, com formatação simples. Contexto, apresentação, termos gerais. |
+| **Texto** | Parágrafos livres, com formatação simples. Aceita um **título opcional** e uma **aparência**: além do estilo Padrão, os presets **Destaque**, **Nota** e **Atenção** (com fundo e barra lateral), mais **ícone**, **imagem** e ajuste fino de cor — para diferenciar um bloco de texto dos demais. |
 | **Produtos e Serviços** | Cards de escopo, cada um com título, entregáveis, foto, logomarca e link. Importável do catálogo. |
 | **Cronograma** | Linha do tempo de entregas: etapa, título, tags e resultado esperado. |
 | **Precificação** | O investimento, montado em sub-blocos. Ver **[Precificação por Blocos](/modulos/precificacao/)**. |
 | **Razões para a parceria** | Lista de diferenciais e provas — por que fechar com você. |
 | **Grid de cards** | 2, 3 ou 4 colunas de cards com ícone ou imagem — benefícios, números, destaques. |
-| **Callout / Citação** | Caixa de destaque ou citação com atribuição (prova social). |
+| **Callout / Citação** | Caixa de destaque ou citação com atribuição (prova social). Aceita uma **foto/avatar opcional** de quem depõe — ideal para depoimentos. |
 | **Comparação de investimento** | Valor de mercado riscado × o seu valor × economia — ancoragem de preço. |
 
 {: .tip }
 > **A ordem conta uma história**
 >
 > Uma sequência que funciona: **Capa → Texto (a dor) → Produtos (a solução) → Cronograma (o caminho) → Comparação/Precificação (o investimento) → Razões (a confiança)**. Guie o cliente do problema ao "sim".
+
+### Reaproveitar conteúdo da Biblioteca
+
+Textos que se repetem entre propostas — apresentação da empresa, razões da parceria, depoimentos — não precisam ser reescritos. No construtor, o botão **"+ Da Biblioteca"** insere um conteúdo salvo como um bloco editável (uma cópia; alterar aqui não muda o original). E, em cada bloco de Texto, Razões, Grid ou Callout, a ação **"Salvar na biblioteca"** faz o caminho inverso — guarda aquele bloco como um conteúdo reutilizável. A biblioteca fica no **[Catálogo → aba Conteúdos](/modulos/conteudos/)**.
 
 ### A capa vem do bloco Hero
 

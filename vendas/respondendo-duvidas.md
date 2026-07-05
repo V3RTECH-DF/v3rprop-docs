@@ -29,7 +29,7 @@ A resposta pelos comentários da proposta (direto no painel do V3RProp) tem uma 
 
 ## 3. Objeções comuns e como responder
 
-**Preço** — "está caro" raramente é sobre o número isolado; é sobre a relação percebida entre número e valor. Antes de considerar desconto, responda reforçando o que already está nos blocos de comparação de investimento ou de opções: o que está incluso, o que isso evita (retrabalho, atraso, custo de não resolver). Se o cliente comparou com um concorrente mais barato, pergunte o que está incluído na proposta dele — geralmente o escopo não é o mesmo.
+**Preço** — "está caro" raramente é sobre o número isolado; é sobre a relação percebida entre número e valor. Antes de considerar desconto, responda reforçando o que já está nos blocos de comparação de investimento ou de opções: o que está incluso, o que isso evita (retrabalho, atraso, custo de não resolver). Se o cliente comparou com um concorrente mais barato, pergunte o que está incluído na proposta dele — geralmente o escopo não é o mesmo.
 
 **Prazo** — dúvida sobre cronograma geralmente esconde uma urgência ou uma restrição não dita (ex.: "preciso disso pronto antes do fechamento do trimestre"). Pergunte o motivo por trás da dúvida antes de simplesmente confirmar ou negociar data — a resposta pode mudar o que você oferece.
 
