@@ -78,7 +78,7 @@ A responsabilidade por contratar esses serviços e garantir conformidade (inclus
 
 ### B.5. Direitos dos titulares
 
-Os titulares (seus clientes e signatários) têm os direitos previstos na LGPD — confirmação, acesso, correção, eliminação, portabilidade, entre outros. Como controlador, você os atende diretamente. O recurso **Importar/Exportar** ajuda a localizar e extrair dados quando necessário.
+Os titulares (seus clientes e signatários) têm os direitos previstos na LGPD — confirmação, acesso, correção, eliminação, portabilidade, entre outros. Como controlador, você os atende diretamente pelo painel: as telas de **Clientes** e **Propostas** permitem localizar, visualizar, corrigir e excluir os dados de uma pessoa.
 
 ### B.6. Retenção e eliminação
 
