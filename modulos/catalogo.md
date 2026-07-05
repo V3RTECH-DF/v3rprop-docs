@@ -43,7 +43,11 @@ A tabela mostra foto, nome e descrição, o **valor** já formatado conforme o t
 
 ## Presets por setor
 
-Está começando? O botão **Carregar Presets** cadastra um catálogo de demonstração para um setor (TI, Marketing, Eventos, Comércio, Terceiro Setor). É um ponto de partida para você adaptar.
+Está começando? O botão **Carregar Presets** oferece um catálogo de demonstração por setor (TI, Marketing, Eventos, Comércio, Terceiro Setor) — um ponto de partida para você adaptar.
+
+Escolha o setor e, na tela de seleção, marque exatamente o que quer trazer, agrupado em **Produtos & Serviços**, **Políticas** e **Conteúdos** (textos institucionais, razões e depoimentos prontos). Tudo já vem marcado; é só desmarcar o que não interessa, ou usar **Selecionar tudo** por grupo. O que já existe no seu catálogo aparece com o selo **"já no catálogo"** e não é duplicado. Clique em **Importar selecionados** para concluir.
+
+![Tela de seleção de presets, com os grupos Produtos & Serviços, Políticas e Conteúdos](/assets/screenshots/manual-presets-selecao.png)
 
 ## Do catálogo para a proposta
 
