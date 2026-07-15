@@ -5,12 +5,17 @@ nav_order: 5
 
 # Novidades
 
-O que mudou no V3RProp, em linguagem simples — **da mais recente para a mais antiga**. Cada novidade traz a **versão** em que foi introduzida, para você saber o que é realmente novo. Para o histórico técnico completo, consulte o [changelog no repositório do projeto](https://github.com/V3RTECH-DF/v3rprop/blob/main/docs/CHANGELOG.md).
+O que mudou no V3RProp, em linguagem simples — **da mais recente para a mais antiga**. Cada novidade traz a **versão** em que foi introduzida, para você saber o que é realmente novo.
 
 {: .note }
-> A versão instalada aparece no rodapé do painel e no cabeçalho do plugin (ex.: `v1.16.0`). Compare com a lista abaixo para ver o que você já tem.
+> A versão instalada aparece no rodapé do painel e no cabeçalho do plugin (ex.: `v1.19.0`). Compare com a lista abaixo para ver o que você já tem.
 
 ---
+
+## Status do certificado digital sempre correto
+**v1.18.2 · julho de 2026**
+
+O painel agora mostra com precisão a situação do seu certificado digital ICP-Brasil: enquanto válido, aparece **Certificado Ativo** (verde); assim que vence, passa a **Certificado Expirado** (vermelho, com a data em que venceu). Enquanto o certificado estiver vencido, as propostas aceitas continuam sendo assinadas eletronicamente por hash — nenhuma é assinada com um certificado fora da validade. Veja **[Configurações](/modulos/configuracoes/)**.
 
 ## Presets do catálogo à la carte
 **v1.16.0 · julho de 2026**

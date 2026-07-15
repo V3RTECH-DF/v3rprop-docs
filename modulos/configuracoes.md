@@ -65,8 +65,9 @@ O V3RProp envia e-mails automáticos em cada etapa. Você pode personalizar o te
 Para assinar os PDFs com o seu certificado A1:
 
 - Envie o arquivo **`.pfx`/`.p12`** e informe a senha.
+- O cartão de status mostra a situação real do certificado: **Certificado Ativo** (selo verde) enquanto válido, ou **Certificado Expirado** (selo vermelho, com a data em que venceu) assim que passa da validade.
 - O V3RProp avisa com **15, 5 e 1 dia** de antecedência quando o certificado estiver perto de vencer.
-- Vencido o certificado, a assinatura volta automaticamente ao modelo eletrônico por IP/hash (que também tem validade legal).
+- Vencido o certificado, a assinatura volta automaticamente ao modelo eletrônico por IP/hash (que também tem validade legal) — nenhuma proposta é assinada com um certificado fora da validade.
 
 {: .note }
 > **Segurança dos segredos**
