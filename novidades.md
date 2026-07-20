@@ -12,6 +12,24 @@ O que mudou no V3RProp, em linguagem simples — **da mais recente para a mais a
 
 ---
 
+## Descrição do produto, separada dos entregáveis
+**v1.25.0 · julho de 2026**
+
+Cada item do bloco **Produtos e Serviços** ganhou um campo **Descrição (parágrafo introdutório)**, acima dos Entregáveis. A ideia é dar ao card as duas coisas que ele precisa: um parágrafo que **apresenta** o produto (o que é, que problema resolve) e, logo abaixo, a **lista** do que está incluído. A descrição também aceita formatação.
+
+Um ponto que costuma confundir: ao usar **Importar do Catálogo**, a descrição cadastrada no item do catálogo continua virando a **lista de entregáveis** — uma linha por entregável, como sempre foi. O parágrafo introdutório é escrito à mão, na proposta, e vem vazio na importação. Nada mudou no que você já tinha; o campo novo é um espaço a mais, opcional. Veja **[Editor de Propostas e Blocos](/modulos/editor/)**.
+
+
+## Formatação de texto na hora, sem asteriscos
+**v1.24.0 · julho de 2026**
+
+Escrever os textos da proposta ficou igual a escrever no WordPress. Os campos de texto passaram a ter a **barra de formatação** — negrito, itálico, listas, links, alinhamento — e **o resultado aparece enquanto você digita**, no próprio campo, em vez de só depois na proposta publicada.
+
+Vale para o bloco de **Texto**, a **descrição das Razões para a parceria**, o texto dos **Cards do grid** e o **Callout / Citação**.
+
+Quem escrevia com marcadores no meio do texto (`**asteriscos**` para negrito) **não precisa mais** — é só clicar nos botões. E o conteúdo antigo **foi convertido automaticamente**: as propostas continuam aparecendo exatamente como apareciam, sem nenhuma ação sua. Veja **[Editor de Propostas e Blocos](/modulos/editor/)**.
+
+
 ## Proteção por senha reforçada
 **v1.22.2 a v1.23.3 · julho de 2026**
 

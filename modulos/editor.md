@@ -44,14 +44,55 @@ Aqui você empilha os **blocos** que formam o corpo da proposta. Cada bloco é a
 | Bloco | Para que serve |
 |---|---|
 | **Capa (Hero)** | O primeiro bloco Hero alimenta a capa: chamada (kicker), título forte, subtítulo e imagem de fundo opcional. |
-| **Texto** | Parágrafos livres, com formatação simples. Aceita um **título opcional** e uma **aparência**: além do estilo Padrão, os presets **Destaque**, **Nota** e **Atenção** (com fundo e barra lateral), mais **ícone**, **imagem** e ajuste fino de cor — para diferenciar um bloco de texto dos demais. |
-| **Produtos e Serviços** | Cards de escopo, cada um com título, entregáveis, foto, logomarca e link. Importável do catálogo. Você escolhe quantos **cards por linha** (2, 3 ou 4). |
+| **Texto** | Parágrafos livres, escritos no **editor de texto formatado** (veja abaixo). Aceita um **título opcional** e uma **aparência**: além do estilo Padrão, os presets **Destaque**, **Nota** e **Atenção** (com fundo e barra lateral), mais **ícone**, **imagem** e ajuste fino de cor — para diferenciar um bloco de texto dos demais. |
+| **Produtos e Serviços** | Cards de escopo, cada um com título, **descrição**, entregáveis, foto, logomarca e link. Importável do catálogo. Você escolhe quantos **cards por linha** (2, 3 ou 4). |
 | **Cronograma** | Linha do tempo de entregas: etapa, título, tags e resultado esperado. |
 | **Precificação** | O investimento, montado em sub-blocos. Ver **[Precificação por Blocos](/modulos/precificacao/)**. |
 | **Razões para a parceria** | Lista de diferenciais e provas — por que fechar com você. Também aceita a escolha de **cards por linha**. |
 | **Grid de cards** | Cards com ícone ou imagem — benefícios, números, destaques — com **cards por linha** configurável (2, 3 ou 4). |
 | **Callout / Citação** | Caixa de destaque ou citação com atribuição (prova social). Aceita uma **foto/avatar opcional** de quem depõe — ideal para depoimentos. |
 | **Comparação de investimento** | Valor de mercado riscado × o seu valor × economia — ancoragem de preço. |
+
+### Escrever com formatação
+
+Os campos de texto corrido do editor têm a **barra de formatação do WordPress** — a mesma que você já conhece de páginas e posts. Você aplica **negrito**, *itálico*, sublinhado, listas com marcadores ou numeradas, links e alinhamento, e **o resultado aparece na hora, no próprio campo**: o que você vê enquanto escreve é o que o cliente vai ver na proposta.
+
+![Bloco de Texto com o editor de texto formatado e sua barra de ferramentas](/assets/screenshots/editor-bloco-texto-rico.png)
+
+O editor formatado está em:
+
+- o bloco de **Texto**;
+- a **descrição** de cada item das **Razões para a parceria**;
+- o texto de cada card do **Grid de cards**;
+- o texto do **Callout / Citação**;
+- a **descrição** de cada item de **Produtos e Serviços**.
+
+Na barra você também escolhe entre **Parágrafo**, **Subtítulo** e **Subtítulo menor**. Não existem níveis maiores de título de propósito: eles competiriam com os títulos de seção da própria proposta e bagunçariam a hierarquia visual.
+
+{: .note }
+> **Não é mais preciso escrever com asteriscos**
+>
+> Até a versão 1.23, a formatação era escrita com marcadores no meio do texto (`**negrito**`) e só aparecia depois, na proposta publicada. Agora você formata clicando nos botões. **Todo o conteúdo escrito daquele jeito foi convertido automaticamente** e continua aparecendo exatamente como antes — não há nada para refazer.
+
+## Descrição e entregáveis, em Produtos e Serviços
+
+Cada item do bloco **Produtos e Serviços** tem dois campos de conteúdo, com papéis diferentes:
+
+| Campo | O que é |
+|---|---|
+| **Descrição (parágrafo introdutório)** | Um parágrafo que **apresenta** o produto — o que ele é, para quem serve, que problema resolve. Aceita formatação. |
+| **Entregáveis / Lista de Recursos** | A **lista** do que está incluído. Um entregável por linha; cada linha vira um item da lista no card. |
+
+![Campos de descrição e entregáveis num item de Produtos e Serviços](/assets/screenshots/editor-produto-descricao.png)
+
+A distinção é simples: a descrição **conta**, os entregáveis **listam**. Um card fica bom com os dois — o parágrafo dá o contexto, a lista dá a concretude.
+
+{: .warning }
+> **Ao importar do catálogo, a descrição do catálogo vira a lista de entregáveis**
+>
+> Isso costuma confundir. Quando você usa **Importar do Catálogo**, a descrição cadastrada no item do catálogo é quebrada **linha a linha** e entra como **entregáveis** — porque é assim que o catálogo é preenchido na prática, uma linha por item entregue.
+>
+> O **parágrafo introdutório é escrito à mão**, na proposta, e vem vazio na importação. Se o card importado ficou só com uma lista e você quer uma apresentação antes dela, preencha o campo **Descrição** depois de importar.
 
 ## Quantos cards por linha
 

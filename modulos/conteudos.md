@@ -22,7 +22,7 @@ Cada conteúdo tem uma **finalidade**, que define o formato do bloco gerado ao i
 | **Clientes atendidos** | Grade de clientes (logo + nome em cada card). |
 | **Depoimento** | Texto + atribuição + foto opcional de quem depõe. |
 
-Os editores de cada finalidade são os mesmos blocos do construtor de propostas — então o que você monta aqui aparece igualzinho na proposta.
+Os editores de cada finalidade são os mesmos blocos do construtor de propostas — então o que você monta aqui aparece igualzinho na proposta. Isso vale também para a **[barra de formatação](/modulos/editor/)**: negrito, itálico, listas e links funcionam aqui do mesmo jeito, com o resultado aparecendo enquanto você escreve.
 
 ## Da biblioteca para a proposta
 

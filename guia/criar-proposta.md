@@ -38,7 +38,7 @@ Uma proposta convincente costuma seguir esta sequência:
 
 1. **Capa (Hero)** — o primeiro bloco Hero alimenta a capa: um chamado curto (kicker) e um título forte. É o impacto inicial.
 2. **Texto** — apresente o contexto e a dor do cliente; mostre que você entendeu o problema.
-3. **Produtos e Serviços** — detalhe o escopo em cards, com os entregáveis de cada frente.
+3. **Produtos e Serviços** — detalhe o escopo em cards. Cada card aceita um **parágrafo de apresentação** e a **lista de entregáveis** daquela frente.
 4. **Cronograma** — as etapas e o que o cliente ganha em cada uma.
 5. **Precificação** — o investimento, em blocos (ver abaixo).
 6. **Razões para a parceria** — seus diferenciais e provas.

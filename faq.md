@@ -102,6 +102,43 @@ demais itens. Você negocia o valor à parte.
 </details>
 
 <details markdown="1">
+<summary>Eu escrevia os textos com asteriscos em volta das palavras. E agora?</summary>
+
+Não precisa mais. A partir da **versão 1.24.0**, os campos de texto da proposta
+têm a **barra de formatação do WordPress**: você clica em negrito, itálico, lista
+ou link, e a formatação aparece na hora, no próprio campo.
+
+**O que você já tinha escrito foi convertido automaticamente** e continua
+aparecendo igual ao que já aparecia na proposta — não há nada para revisar ou
+refazer.
+
+Sobre os hábitos antigos, o comportamento agora é este:
+
+| Se você digitar | O que acontece |
+|---|---|
+| `**negrito**` | Aparecem os asteriscos mesmo — use o botão **B** |
+| `- item` ou `* item` no começo da linha | Vira lista com marcadores, como antes |
+| `1. item` | Vira lista numerada |
+| `> texto` | Vira citação |
+
+Ver **[Editor de Propostas e Blocos](/modulos/editor/)**.
+</details>
+
+<details markdown="1">
+<summary>Qual a diferença entre a "Descrição" e os "Entregáveis" de um produto?</summary>
+
+A **descrição** é um **parágrafo que apresenta** o produto — o que ele é e que
+problema resolve. Os **entregáveis** são a **lista** do que está incluído, um por
+linha. A descrição conta; os entregáveis listam. Um bom card usa os dois.
+
+**Atenção a um detalhe da importação:** ao usar **Importar do Catálogo**, a
+descrição cadastrada no item do catálogo entra como **lista de entregáveis**
+(uma linha por entregável), e não como parágrafo. O parágrafo introdutório vem
+vazio e é escrito à mão na proposta. Ver
+**[Editor de Propostas e Blocos](/modulos/editor/)**.
+</details>
+
+<details markdown="1">
 <summary>Como reaproveito uma proposta que deu certo?</summary>
 
 Na tela **Propostas**, use a ação **Duplicar** na linha da proposta. Ela cria
