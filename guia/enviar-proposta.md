@@ -36,6 +36,17 @@ Ao publicar, você pode marcar **Notificar cliente por e-mail**. O V3RProp envia
 
 Para propostas sensíveis, defina uma **senha de acesso** na aba de Identidade. O cliente precisará digitá-la para abrir a página. Combine a senha por um canal separado do link.
 
+**Como funciona para o cliente:** ele digita a senha uma vez e continua com acesso liberado naquele navegador. Se abrir em outro aparelho ou navegador, a senha é pedida de novo — é assim que a proteção funciona.
+
+Você vai notar que o endereço ganha um trecho a mais (`?v3rprop_p=1`) ao abrir uma proposta protegida. É normal e não é uma senha: serve para o servidor não guardar a página em cache, o que é o que garante que ela não seja exibida a quem não digitou a senha.
+
+{: .warning }
+> **Links de propostas protegidas enviados antes da versão 1.23.0 pararam de funcionar.**
+>
+> Aqueles links carregavam um código de acesso embutido no endereço, que abria a proposta sem pedir senha — e que continuaria valendo para qualquer pessoa que recebesse o link encaminhado. Esse mecanismo foi removido.
+>
+> Na prática: se um cliente disser que o link parou de abrir, peça que ele use o mesmo link e informe a senha. Nada precisa ser reenviado, e a senha continua a mesma.
+
 ## O timing importa
 
 O melhor momento de enviar é **logo após a conversa de descoberta**, enquanto o interesse está quente e o contexto fresco. Defina uma validade realista e, se fizer sentido, ative o **contador de escassez** para criar um senso saudável de urgência. Aprofunde em **[Quando e Como Enviar uma Proposta](/vendas/quando-e-como-enviar/)**.

@@ -60,6 +60,31 @@ momento, sem perder conteúdo. Ver **[Editor de Propostas e Blocos](/modulos/edi
 </details>
 
 <details markdown="1">
+<summary>Meu cliente diz que o link da proposta parou de abrir e agora pede senha. O que houve?</summary>
+
+Isso é esperado a partir da **versão 1.23.0**, e só acontece com propostas
+**protegidas por senha**.
+
+Antes, o link enviado ao cliente carregava um código embutido no endereço que
+abria a proposta sem pedir a senha — e continuava valendo para qualquer pessoa
+que recebesse aquele link encaminhado, indefinidamente. Esse mecanismo foi
+removido por segurança.
+
+**O que fazer:** peça ao cliente que use o mesmo link e informe a senha. Ele
+digita uma vez e segue com acesso liberado naquele navegador. **A senha continua
+a mesma e você não precisa reenviar nada.**
+</details>
+
+<details markdown="1">
+<summary>Por que aparece <code>?v3rprop_p=1</code> no endereço da proposta protegida?</summary>
+
+É um marcador técnico, **não é uma senha nem um código de acesso** — sozinho ele
+não abre nada. Ele serve para o servidor não guardar a página em cache, que é
+justamente o que garante que uma proposta com senha não seja exibida a quem não
+digitou a senha. Propostas **sem** senha não recebem esse marcador.
+</details>
+
+<details markdown="1">
 <summary>Como coloco uma mensalidade (valor recorrente) na proposta?</summary>
 
 Na Precificação, adicione um bloco **Serviço recorrente** e informe o valor por

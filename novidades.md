@@ -12,24 +12,30 @@ O que mudou no V3RProp, em linguagem simples — **da mais recente para a mais a
 
 ---
 
-## O resumo da proposta mostra só o que faz sentido
-**v1.21.0 · julho de 2026**
+## Proteção por senha reforçada
+**v1.22.2 a v1.23.3 · julho de 2026**
 
-Numa proposta que só tem mensalidade, o resumo mostrava um card **"Investimento pontual — R$ 0,00"** ao lado do valor recorrente. Isso acabou: agora cada card do resumo aparece conforme a proposta — só recorrente, só pontual, ou os dois. Não é preciso configurar nada.
+O acesso a propostas protegidas por senha foi revisto de ponta a ponta, depois que identificamos que uma proposta protegida podia, em certas hospedagens, ser exibida sem a senha. O que mudou para você:
 
-Se quiser decidir na mão (por exemplo, exibir um **R$ 0,00** de propósito, para deixar claro que a implantação é gratuita), o novo controle **Cards no resumo da proposta**, no rodapé de totais da aba de Precificação, permite forçar **Sempre exibir** ou **Nunca exibir** cada card. Veja **[Precificação por Blocos](/modulos/precificacao/)**.
+- A página de uma proposta com senha **não pode mais ser guardada em cache** por nenhuma camada do servidor — era essa a origem do problema.
+- **Links antigos pararam de abrir direto.** Antes, o endereço enviado ao cliente carregava um código que dispensava a senha para sempre, inclusive para quem recebesse o link encaminhado. Esse mecanismo foi removido: agora o cliente informa a senha uma vez e segue com acesso liberado naquele navegador. **A senha continua a mesma e nada precisa ser reenviado.**
+- **As senhas deixaram de ser guardadas de forma legível** no banco de dados do seu site. A conversão foi automática, sem nenhuma ação sua.
+- Aceitar, recusar ou comentar uma proposta protegida agora também exige ter passado pela senha.
 
-## Fim do selo "Recomendado" no resumo de valores
-**v1.21.0 · julho de 2026**
+Veja **[Enviar a Proposta](/guia/enviar-proposta/)**.
 
-O card de investimento pontual vinha com uma faixa **"RECOMENDADO"**, que aparecia sempre — inclusive sobre valores zerados. O selo foi removido, porque ele não fazia sentido ali: o investimento pontual e o recorrente **não são opções concorrentes** entre as quais o cliente escolhe; são duas partes do mesmo investimento (o que se paga uma vez e o que se paga por mês).
 
-O **"Recomendado" continua existindo onde ele significa alguma coisa**: nos blocos de **Opções/Pacotes**, em que você marca qual plano quer destacar e o cliente de fato escolhe um.
+## O contador regressivo agora desliga de verdade
+**v1.22.1 · julho de 2026**
 
-## Cards de valores ocupando a largura toda
-**v1.21.0 · julho de 2026**
+Desativar o contador regressivo de uma proposta não estava sendo salvo: ao reabrir, ele voltava ligado e continuava aparecendo para o cliente. Corrigido. Se você já tinha tentado desligá-lo em alguma proposta, **essa escolha foi recuperada** — não precisa refazer nada.
 
-Os cards de valores da proposta pública (resumo de investimento, pacotes comparados e o quadro comparativo) agora se distribuem pela largura inteira, qualquer que seja a quantidade. Antes eles ficavam presos a três colunas fixas, o que deixava um espaço vazio à direita quando havia um ou dois cards.
+
+## Você escolhe quantos cards por linha
+**v1.22.0 · julho de 2026**
+
+Os blocos **Produtos e Serviços** e **Razões para a parceria** ganharam o seletor de **cards por linha** (2, 3 ou 4) que antes existia só no Grid de cards. O número é um limite, não uma obrigação: com menos cards do que colunas, eles crescem e preenchem a largura; sobrando um na última linha, ele também se estica. No celular, segue um por linha. Veja **[O Editor de Propostas](/modulos/editor/)**.
+
 
 ## Correções de exibição da proposta
 **v1.21.1 · julho de 2026**
@@ -38,6 +44,28 @@ Duas correções discretas, mas que afetavam a proposta que vai ao cliente:
 
 - A página deixou de **rolar levemente para os lados** no computador (um deslocamento de poucos pixels causado pela barra de rolagem).
 - Uma proposta **publicada pela tela clássica do WordPress** deixou de sumir da lista de Propostas do V3RProp. Ela continuava acessível pelo link, mas não aparecia no painel; agora aparece normalmente, sem que você precise refazer nada.
+
+
+## O resumo da proposta mostra só o que faz sentido
+**v1.21.0 · julho de 2026**
+
+Numa proposta que só tem mensalidade, o resumo mostrava um card **"Investimento pontual — R$ 0,00"** ao lado do valor recorrente. Isso acabou: agora cada card do resumo aparece conforme a proposta — só recorrente, só pontual, ou os dois. Não é preciso configurar nada.
+
+Se quiser decidir na mão (por exemplo, exibir um **R$ 0,00** de propósito, para deixar claro que a implantação é gratuita), o novo controle **Cards no resumo da proposta**, no rodapé de totais da aba de Precificação, permite forçar **Sempre exibir** ou **Nunca exibir** cada card. Veja **[Precificação por Blocos](/modulos/precificacao/)**.
+
+
+## Fim do selo "Recomendado" no resumo de valores
+**v1.21.0 · julho de 2026**
+
+O card de investimento pontual vinha com uma faixa **"RECOMENDADO"**, que aparecia sempre — inclusive sobre valores zerados. O selo foi removido, porque ele não fazia sentido ali: o investimento pontual e o recorrente **não são opções concorrentes** entre as quais o cliente escolhe; são duas partes do mesmo investimento (o que se paga uma vez e o que se paga por mês).
+
+O **"Recomendado" continua existindo onde ele significa alguma coisa**: nos blocos de **Opções/Pacotes**, em que você marca qual plano quer destacar e o cliente de fato escolhe um.
+
+
+## Cards ocupando a largura toda, em todos os blocos
+**v1.21.0 e v1.21.2 · julho de 2026**
+
+Os cards da proposta pública passaram a se distribuir pela largura inteira, qualquer que seja a quantidade — antes ficavam presos a colunas fixas, deixando espaço vazio à direita. Começou pelo resumo de investimento, pacotes e comparativo (v1.21.0) e se estendeu a **Produtos e Serviços**, **Razões para a parceria** e **Grid de cards** (v1.21.2). Um card sozinho agora ocupa a linha inteira.
 
 ## Status do certificado digital sempre correto
 **v1.18.2 · julho de 2026**

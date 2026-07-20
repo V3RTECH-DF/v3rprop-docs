@@ -45,13 +45,21 @@ Aqui você empilha os **blocos** que formam o corpo da proposta. Cada bloco é a
 |---|---|
 | **Capa (Hero)** | O primeiro bloco Hero alimenta a capa: chamada (kicker), título forte, subtítulo e imagem de fundo opcional. |
 | **Texto** | Parágrafos livres, com formatação simples. Aceita um **título opcional** e uma **aparência**: além do estilo Padrão, os presets **Destaque**, **Nota** e **Atenção** (com fundo e barra lateral), mais **ícone**, **imagem** e ajuste fino de cor — para diferenciar um bloco de texto dos demais. |
-| **Produtos e Serviços** | Cards de escopo, cada um com título, entregáveis, foto, logomarca e link. Importável do catálogo. |
+| **Produtos e Serviços** | Cards de escopo, cada um com título, entregáveis, foto, logomarca e link. Importável do catálogo. Você escolhe quantos **cards por linha** (2, 3 ou 4). |
 | **Cronograma** | Linha do tempo de entregas: etapa, título, tags e resultado esperado. |
 | **Precificação** | O investimento, montado em sub-blocos. Ver **[Precificação por Blocos](/modulos/precificacao/)**. |
-| **Razões para a parceria** | Lista de diferenciais e provas — por que fechar com você. |
-| **Grid de cards** | 2, 3 ou 4 colunas de cards com ícone ou imagem — benefícios, números, destaques. |
+| **Razões para a parceria** | Lista de diferenciais e provas — por que fechar com você. Também aceita a escolha de **cards por linha**. |
+| **Grid de cards** | Cards com ícone ou imagem — benefícios, números, destaques — com **cards por linha** configurável (2, 3 ou 4). |
 | **Callout / Citação** | Caixa de destaque ou citação com atribuição (prova social). Aceita uma **foto/avatar opcional** de quem depõe — ideal para depoimentos. |
 | **Comparação de investimento** | Valor de mercado riscado × o seu valor × economia — ancoragem de preço. |
+
+## Quantos cards por linha
+
+Nos blocos de **Produtos e Serviços**, **Razões para a parceria** e **Grid de cards**, você define quantos cards ficam lado a lado: **2, 3 ou 4**.
+
+O número escolhido é um **limite, não uma obrigação**. Se houver menos cards do que colunas, eles crescem e ocupam a largura toda em vez de deixar um vazio à direita. Se houver mais, eles quebram para a linha seguinte — e, quando sobra um card sozinho na última linha, ele também se estica para preencher.
+
+No celular, os cards sempre aparecem um por linha, independentemente da configuração.
 
 {: .tip }
 > **A ordem conta uma história**
