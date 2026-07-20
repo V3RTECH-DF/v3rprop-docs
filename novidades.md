@@ -12,6 +12,33 @@ O que mudou no V3RProp, em linguagem simples — **da mais recente para a mais a
 
 ---
 
+## O resumo da proposta mostra só o que faz sentido
+**v1.21.0 · julho de 2026**
+
+Numa proposta que só tem mensalidade, o resumo mostrava um card **"Investimento pontual — R$ 0,00"** ao lado do valor recorrente. Isso acabou: agora cada card do resumo aparece conforme a proposta — só recorrente, só pontual, ou os dois. Não é preciso configurar nada.
+
+Se quiser decidir na mão (por exemplo, exibir um **R$ 0,00** de propósito, para deixar claro que a implantação é gratuita), o novo controle **Cards no resumo da proposta**, no rodapé de totais da aba de Precificação, permite forçar **Sempre exibir** ou **Nunca exibir** cada card. Veja **[Precificação por Blocos](/modulos/precificacao/)**.
+
+## Fim do selo "Recomendado" no resumo de valores
+**v1.21.0 · julho de 2026**
+
+O card de investimento pontual vinha com uma faixa **"RECOMENDADO"**, que aparecia sempre — inclusive sobre valores zerados. O selo foi removido, porque ele não fazia sentido ali: o investimento pontual e o recorrente **não são opções concorrentes** entre as quais o cliente escolhe; são duas partes do mesmo investimento (o que se paga uma vez e o que se paga por mês).
+
+O **"Recomendado" continua existindo onde ele significa alguma coisa**: nos blocos de **Opções/Pacotes**, em que você marca qual plano quer destacar e o cliente de fato escolhe um.
+
+## Cards de valores ocupando a largura toda
+**v1.21.0 · julho de 2026**
+
+Os cards de valores da proposta pública (resumo de investimento, pacotes comparados e o quadro comparativo) agora se distribuem pela largura inteira, qualquer que seja a quantidade. Antes eles ficavam presos a três colunas fixas, o que deixava um espaço vazio à direita quando havia um ou dois cards.
+
+## Correções de exibição da proposta
+**v1.21.1 · julho de 2026**
+
+Duas correções discretas, mas que afetavam a proposta que vai ao cliente:
+
+- A página deixou de **rolar levemente para os lados** no computador (um deslocamento de poucos pixels causado pela barra de rolagem).
+- Uma proposta **publicada pela tela clássica do WordPress** deixou de sumir da lista de Propostas do V3RProp. Ela continuava acessível pelo link, mas não aparecia no painel; agora aparece normalmente, sem que você precise refazer nada.
+
 ## Status do certificado digital sempre correto
 **v1.18.2 · julho de 2026**
 
